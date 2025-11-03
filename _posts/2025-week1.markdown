@@ -2,7 +2,6 @@
 title: "SQL"
 layout: post
 date: 2025-11-02 17:50
-published: true
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
