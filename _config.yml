@@ -41,18 +41,18 @@ linkedin: mpaitoo
 github: SpaceGhostVII
 email: michael.paitoo@gmail.com
 
-authors:
-  mpaitoo:
-    name: michael paitoo
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/circle-profilepic01.png
+#authors:
+#  mpaitoo:
+#    name: michael paitoo
+#    bio: A Man who travels the world eating noodles
+#    external-image: false
+#    picture: assets/images/circle-profilepic01.png
     #twitter: johndoe
-  mpaitoo:
-    name: michael paitoo
-    bio: test
-    external-image: false
-    picture: assets/images/circle-profilepic01.png
+#  mpaitoo:
+#    name: michael paitoo
+#    bio: test
+#    external-image: false
+#    picture: assets/images/circle-profilepic01.png
     #twitter: jamesfoster
 
 # do you want a larger site? change the option below
